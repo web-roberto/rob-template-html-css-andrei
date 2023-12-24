@@ -1,2 +1,2 @@
-# rob-template-js-andrei
-Template for a web made in Javascript made by Andrei
+# rob-template-html-css-andrei
+Template for a web made in HTML and CSS made by Andrei
